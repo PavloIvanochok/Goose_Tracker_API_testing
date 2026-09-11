@@ -1,0 +1,9 @@
+{
+    "id": "6aa415572b8b077afcc9fdf9",
+    "name": "Robert",
+    "email": "eshannon@example.net",
+    "data": {
+        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQxNTU3MmI4YjA3N2FmY2M5ZmRmOSIsImlhdCI6MTc4OTEzODI2MywiZXhwIjoxNzg5MTQxODYzfQ.N85VEx1LEx2QzqLsehTvy5mTTjZ-Yet3Fr6kD92W49E",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQxNTU3MmI4YjA3N2FmY2M5ZmRmOSIsImlhdCI6MTc4OTEzODI2MywiZXhwIjoxNzkxNzMwMjYzfQ.XCOqZWW00el-FO_LuoMaB0vsJKV8xEBL26yoGFuMqyI"
+    }
+}
