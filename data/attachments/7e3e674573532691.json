@@ -1,9 +1,0 @@
-{
-    "id": "6aa409012b8b077afcc9fb4e",
-    "name": "Pamela",
-    "email": "davidprince@example.org",
-    "data": {
-        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQwOTAxMmI4YjA3N2FmY2M5ZmI0ZSIsImlhdCI6MTc4OTEzNTEwNiwiZXhwIjoxNzg5MTM4NzA2fQ.D_cME-mrnKGJHIWgGj-aUjsfzlAR7McJQWGsBiuqYFM",
-        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQwOTAxMmI4YjA3N2FmY2M5ZmI0ZSIsImlhdCI6MTc4OTEzNTEwNiwiZXhwIjoxNzkxNzI3MTA2fQ.fIFB59-zqMM8vnGFgVFeKALStBJJNw4qSqgojdV4BCg"
-    }
-}

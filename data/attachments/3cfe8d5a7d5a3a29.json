@@ -1,9 +1,0 @@
-{
-    "id": "6aa4090f2b8b077afcc9fb90",
-    "name": "Jacqueline",
-    "email": "hvillegas@example.org",
-    "data": {
-        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQwOTBmMmI4YjA3N2FmY2M5ZmI5MCIsImlhdCI6MTc4OTEzNTExOSwiZXhwIjoxNzg5MTM4NzE5fQ.SpSt2mc2bzh5-4Zg_x87dzYSh4gjXPFa4tKv2XzHZpQ",
-        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQwOTBmMmI4YjA3N2FmY2M5ZmI5MCIsImlhdCI6MTc4OTEzNTExOSwiZXhwIjoxNzkxNzI3MTE5fQ.FtN6rVBHkgKGZ2YgL24MzUdCqw9PMCNcfYWJlUqQ2R8"
-    }
-}

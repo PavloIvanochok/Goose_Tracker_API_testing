@@ -1,9 +1,0 @@
-{
-    "id": "6aa409042b8b077afcc9fb5c",
-    "name": "Megan",
-    "email": "wavila@example.com",
-    "data": {
-        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQwOTA0MmI4YjA3N2FmY2M5ZmI1YyIsImlhdCI6MTc4OTEzNTEwOCwiZXhwIjoxNzg5MTM4NzA4fQ._g0BOuYgUiSi0odkESoaOqzXP8ZVOkKYLATD7x8HQM0",
-        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQwOTA0MmI4YjA3N2FmY2M5ZmI1YyIsImlhdCI6MTc4OTEzNTEwOCwiZXhwIjoxNzkxNzI3MTA4fQ.ZPU5-ettK0GN-JL7-oNoxdnceO3ypVBMjSq1Vsg3mtM"
-    }
-}
