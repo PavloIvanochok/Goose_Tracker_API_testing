@@ -1,0 +1,12 @@
+{
+    "_id": "6aa41b2d2b8b077afcc9ff65",
+    "name": "Jodi",
+    "email": "brandtbrianna@example.net",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQxYjJkMmI4YjA3N2FmY2M5ZmY2NSIsImlhdCI6MTc4OTEzOTc1NywiZXhwIjoxNzg5MTQzMzU3fQ.rKZybsKh8P-_8YG78b1Y2RV6Dc2Lo2bLn04sQgAmJiE",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQxYjJkMmI4YjA3N2FmY2M5ZmY2NSIsImlhdCI6MTc4OTEzOTc1NywiZXhwIjoxNzkxNzMxNzU3fQ.pWXf4Hfooj-XAKR7miYH8Md2KsiWz6UgZeXg9xsDz78",
+    "phone": "+1-738-515-8827x00930",
+    "birthday": "1946-02-02",
+    "skype": "thomas35",
+    "userImgUrl": "https://picsum.photos/266/159",
+    "userTasks": []
+}

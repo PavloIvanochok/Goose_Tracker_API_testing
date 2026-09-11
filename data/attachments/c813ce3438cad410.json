@@ -1,9 +1,0 @@
-{
-    "id": "6aa419142b8b077afcc9fec7",
-    "name": "Colleen",
-    "email": "umullins@example.net",
-    "data": {
-        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQxOTE0MmI4YjA3N2FmY2M5ZmVjNyIsImlhdCI6MTc4OTEzOTIyMCwiZXhwIjoxNzg5MTQyODIwfQ.XKE0wF0w2-fzcfp-apQL7h1TDrMeHbQpOC2HOsNqN_s",
-        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQxOTE0MmI4YjA3N2FmY2M5ZmVjNyIsImlhdCI6MTc4OTEzOTIyMCwiZXhwIjoxNzkxNzMxMjIwfQ.UIdkAtHWS6x4rGUXmrsRZoiHZfKQyEuv2YYcVIl2Qk4"
-    }
-}

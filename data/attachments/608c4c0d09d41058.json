@@ -1,0 +1,29 @@
+{
+    "success": false,
+    "error": {
+        "errors": {
+            "priority": {
+                "name": "ValidatorError",
+                "message": "`have` is not a valid enum value for path `priority`.",
+                "properties": {
+                    "message": "`have` is not a valid enum value for path `priority`.",
+                    "type": "enum",
+                    "enumValues": [
+                        "low",
+                        "medium",
+                        "high"
+                    ],
+                    "path": "priority",
+                    "value": "have"
+                },
+                "kind": "enum",
+                "path": "priority",
+                "value": "have"
+            }
+        },
+        "_message": "Notice validation failed",
+        "name": "ValidationError",
+        "message": "Notice validation failed: priority: `have` is not a valid enum value for path `priority`."
+    },
+    "message": "Notice validation failed: priority: `have` is not a valid enum value for path `priority`."
+}

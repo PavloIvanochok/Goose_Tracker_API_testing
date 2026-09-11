@@ -1,0 +1,16 @@
+{
+    "status": "success",
+    "task": {
+        "_id": "6aa41b3b2b8b077afcc9ffb2",
+        "title": "Marriage compare.",
+        "start": "02:15:21",
+        "end": "08:44:13",
+        "priority": "high",
+        "category": "to-do",
+        "owner": "6aa41b3a2b8b077afcc9ffae",
+        "date": "2026-03-22T00:00:00.000Z",
+        "createdAt": "2026-09-11T15:16:11.472Z",
+        "updatedAt": "2026-09-11T15:16:11.951Z",
+        "__v": 0
+    }
+}
