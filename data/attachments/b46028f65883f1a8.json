@@ -1,0 +1,29 @@
+{
+    "success": false,
+    "error": {
+        "errors": {
+            "priority": {
+                "name": "ValidatorError",
+                "message": "`parent` is not a valid enum value for path `priority`.",
+                "properties": {
+                    "message": "`parent` is not a valid enum value for path `priority`.",
+                    "type": "enum",
+                    "enumValues": [
+                        "low",
+                        "medium",
+                        "high"
+                    ],
+                    "path": "priority",
+                    "value": "parent"
+                },
+                "kind": "enum",
+                "path": "priority",
+                "value": "parent"
+            }
+        },
+        "_message": "Notice validation failed",
+        "name": "ValidationError",
+        "message": "Notice validation failed: priority: `parent` is not a valid enum value for path `priority`."
+    },
+    "message": "Notice validation failed: priority: `parent` is not a valid enum value for path `priority`."
+}
