@@ -1,0 +1,9 @@
+{
+    "id": "6aa4060c2b8b077afcc9f9d5",
+    "name": "Julia",
+    "email": "breweramber@example.com",
+    "data": {
+        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQwNjBjMmI4YjA3N2FmY2M5ZjlkNSIsImlhdCI6MTc4OTEzNDM0OCwiZXhwIjoxNzg5MTM3OTQ4fQ.jpv2QWW2E2pIINxrLhhsvCK2vXw-IM2nMeEVx1vKlwQ",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQwNjBjMmI4YjA3N2FmY2M5ZjlkNSIsImlhdCI6MTc4OTEzNDM0OCwiZXhwIjoxNzkxNzI2MzQ4fQ.UqptVVVi-sDL8M6LOYF0bFVkS_dn6Mo_4RRJeKBUm5I"
+    }
+}

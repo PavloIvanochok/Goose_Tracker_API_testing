@@ -1,0 +1,7 @@
+{
+    "status": "success",
+    "data": {
+        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3N2ZjYjIxNmViMTI0NDRmMmI0MmU5MSIsImlhdCI6MTc4OTEzNDMzOCwiZXhwIjoxNzg5MTM3OTM4fQ.Lgxdl1ZJ6QSjcEvFne_K2T_jrh8SPhFp78LSrNTG-tE",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3N2ZjYjIxNmViMTI0NDRmMmI0MmU5MSIsImlhdCI6MTc4OTEzNDMzOCwiZXhwIjoxNzkxNzI2MzM4fQ.I-zcUDPQe3C94P0noh7oT9rbj-ga1bC1nrmQqm7MMXY"
+    }
+}

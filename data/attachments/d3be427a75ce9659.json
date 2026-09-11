@@ -1,0 +1,29 @@
+{
+    "success": false,
+    "error": {
+        "errors": {
+            "priority": {
+                "name": "ValidatorError",
+                "message": "`stock` is not a valid enum value for path `priority`.",
+                "properties": {
+                    "message": "`stock` is not a valid enum value for path `priority`.",
+                    "type": "enum",
+                    "enumValues": [
+                        "low",
+                        "medium",
+                        "high"
+                    ],
+                    "path": "priority",
+                    "value": "stock"
+                },
+                "kind": "enum",
+                "path": "priority",
+                "value": "stock"
+            }
+        },
+        "_message": "Notice validation failed",
+        "name": "ValidationError",
+        "message": "Notice validation failed: priority: `stock` is not a valid enum value for path `priority`."
+    },
+    "message": "Notice validation failed: priority: `stock` is not a valid enum value for path `priority`."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "6aa4060b2b8b077afcc9f9cf",
+    "name": "Michael",
+    "email": "gpage@example.org",
+    "data": {
+        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQwNjBiMmI4YjA3N2FmY2M5ZjljZiIsImlhdCI6MTc4OTEzNDM0NywiZXhwIjoxNzg5MTM3OTQ3fQ.B37mqN1qlSjOP4KFbp1umv3lShQUFOfh9s3OKjgoyro",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQwNjBiMmI4YjA3N2FmY2M5ZjljZiIsImlhdCI6MTc4OTEzNDM0NywiZXhwIjoxNzkxNzI2MzQ3fQ.DkL8Ijc5zHymwlqgmYH5_nRYi_jZgivsfxfeZmcMKc4"
+    }
+}

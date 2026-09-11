@@ -1,0 +1,12 @@
+{
+    "_id": "6aa406042b8b077afcc9f9a5",
+    "name": "Debbie",
+    "email": "matthew70@example.net",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQwNjA0MmI4YjA3N2FmY2M5ZjlhNSIsImlhdCI6MTc4OTEzNDM0MCwiZXhwIjoxNzg5MTM3OTQwfQ.cy8ZK4oVknT3Ld1wWfazX-4DQ3wMBZKI54C7PDg0iVg",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQwNjA0MmI4YjA3N2FmY2M5ZjlhNSIsImlhdCI6MTc4OTEzNDM0MCwiZXhwIjoxNzkxNzI2MzQwfQ.5tumemPotwNZ8DkVUR6bI3cttcKkCW8tfEJKZrTpNe8",
+    "phone": "967.752.3074",
+    "birthday": "1960-05-09",
+    "skype": "kaitlyn43",
+    "userImgUrl": "https://placekittens.com/235/983",
+    "userTasks": []
+}

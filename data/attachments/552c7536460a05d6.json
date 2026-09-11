@@ -1,0 +1,16 @@
+{
+    "status": "success",
+    "task": {
+        "_id": "6aa406102b8b077afcc9f9f2",
+        "title": "Tell certain.",
+        "start": "21:12:34",
+        "end": "19:30:50",
+        "priority": "low",
+        "category": "done",
+        "owner": "6aa4060f2b8b077afcc9f9ee",
+        "date": "2026-08-08T00:00:00.000Z",
+        "createdAt": "2026-09-11T13:45:52.372Z",
+        "updatedAt": "2026-09-11T13:45:52.735Z",
+        "__v": 0
+    }
+}
