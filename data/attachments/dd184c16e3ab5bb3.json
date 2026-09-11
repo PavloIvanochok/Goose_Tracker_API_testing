@@ -1,0 +1,9 @@
+{
+    "id": "6aa414112b8b077afcc9fd0d",
+    "name": "Jacqueline",
+    "email": "prattandrew@example.org",
+    "data": {
+        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQxNDExMmI4YjA3N2FmY2M5ZmQwZCIsImlhdCI6MTc4OTEzNzkzNywiZXhwIjoxNzg5MTQxNTM3fQ.hByID9W8PH3cWePMLqe5qd08OsQrPXH5Epj9VFZayEU",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQxNDExMmI4YjA3N2FmY2M5ZmQwZCIsImlhdCI6MTc4OTEzNzkzNywiZXhwIjoxNzkxNzI5OTM3fQ.8hnTGCIy7iLXngvqZhWVY4pFC4fADzo-2Pe_xda0Gjs"
+    }
+}

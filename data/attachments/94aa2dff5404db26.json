@@ -1,0 +1,9 @@
+{
+    "id": "6aa4140b2b8b077afcc9fcf0",
+    "name": "Joseph",
+    "email": "usnow@example.org",
+    "data": {
+        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQxNDBiMmI4YjA3N2FmY2M5ZmNmMCIsImlhdCI6MTc4OTEzNzkzMSwiZXhwIjoxNzg5MTQxNTMxfQ.DIaBB9QB_e5PqhjI8rBzAxm4wGwFpL5oPBXj6DIrsjQ",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTQxNDBiMmI4YjA3N2FmY2M5ZmNmMCIsImlhdCI6MTc4OTEzNzkzMSwiZXhwIjoxNzkxNzI5OTMxfQ.BcFWA_eyXvJH_zp2V_VrkjTl6PKIAg7MHElQd12xpoc"
+    }
+}
