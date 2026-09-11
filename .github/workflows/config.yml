@@ -11,6 +11,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Checkout gh-pages history
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: ./.github/gh-pages
+
       - name: Run API tests
         env:
           EMAIL: ${{ secrets.EMAIL }}
@@ -18,15 +24,17 @@ jobs:
         run: |
           docker compose up --build --exit-code-from api-tests || true
 
+      - name: Copy Allure history
+        run: |
+          mkdir -p allure-results/history
+          if [ -d "./.github/gh-pages/history" ]; then
+            cp -R ./.github/gh-pages/history/. allure-results/history/
+          fi
+
       - name: Generate Allure report
         run: |
           docker compose run --rm api-tests \
             allure generate allure-results --clean -o allure-report
-
-      - name: Update Allure history
-        run: |
-          mkdir -p ./.github/gh-pages/history
-          cp -R allure-report/history/. ./.github/gh-pages/history/
 
       - name: Deploy Allure report
         uses: JamesIves/github-pages-deploy-action@v4
