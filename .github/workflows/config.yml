@@ -1,0 +1,43 @@
+name: API Tests
+
+on:
+  workflow_dispatch:
+
+jobs:
+  api-tests:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Checkout gh-pages history
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: ./.github/gh-pages
+
+      - name: Run API tests
+        env:
+          EMAIL: ${{ secrets.EMAIL }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+        run: |
+          docker compose up --build --exit-code-from api-tests || true
+
+      - name: Generate Allure report
+        run: |
+          docker compose run --rm api-tests \
+            allure generate allure-results --clean -o allure-report
+
+      - name: Update Allure history
+        run: |
+          mkdir -p ./.github/gh-pages/history
+          cp -R allure-report/history/. ./.github/gh-pages/history/
+
+      - name: Deploy Allure report
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          token: ${{ secrets.CI_TOKEN }}
+          branch: gh-pages
+          folder: allure-report
+          clean: true
