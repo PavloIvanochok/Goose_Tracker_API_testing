@@ -11,12 +11,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Checkout gh-pages history
-        uses: actions/checkout@v4
-        with:
-          ref: gh-pages
-          path: ./.github/gh-pages
-
       - name: Run API tests
         env:
           EMAIL: ${{ secrets.EMAIL }}
