@@ -1,0 +1,9 @@
+{
+    "id": "6aa918092b8b077afcca0051",
+    "name": "Daniel",
+    "email": "jodi21@example.org",
+    "data": {
+        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTkxODA5MmI4YjA3N2FmY2NhMDA1MSIsImlhdCI6MTc4OTQ2NjYzMywiZXhwIjoxNzg5NDcwMjMzfQ.TakxdGiXtXw9sjEkHlS0NV_Untn0J_25E42kkX3dM14",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTkxODA5MmI4YjA3N2FmY2NhMDA1MSIsImlhdCI6MTc4OTQ2NjYzMywiZXhwIjoxNzkyMDU4NjMzfQ.xQrF6dGijeR1nAMtXPhM6YBas72vPSFmIzjeEjDI0B8"
+    }
+}

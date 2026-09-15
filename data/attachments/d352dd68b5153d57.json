@@ -1,0 +1,9 @@
+{
+    "id": "6aa9181e2b8b077afcca00c2",
+    "name": "Brooke",
+    "email": "lopezloretta@example.net",
+    "data": {
+        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTkxODFlMmI4YjA3N2FmY2NhMDBjMiIsImlhdCI6MTc4OTQ2NjY1NSwiZXhwIjoxNzg5NDcwMjU1fQ.J_Vp1yBDahug3-negh46gNEEfgLa8iR_VrnScnQTOso",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYTkxODFlMmI4YjA3N2FmY2NhMDBjMiIsImlhdCI6MTc4OTQ2NjY1NSwiZXhwIjoxNzkyMDU4NjU1fQ.5LQjVFYEbjr5UyX81Fb2R2lQCp3aDSFz-jpeQ9ORXFA"
+    }
+}
