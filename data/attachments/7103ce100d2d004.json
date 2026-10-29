@@ -1,0 +1,12 @@
+{
+    "_id": "6ae34cbd2b8b077afcca0151",
+    "name": "Nicholas",
+    "email": "waltonbrianna@example.net",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhZTM0Y2JkMmI4YjA3N2FmY2NhMDE1MSIsImlhdCI6MTc5MzI4MTIxMywiZXhwIjoxNzkzMjg0ODEzfQ.PYRPQUmlJmDsRAbfF299M7pzRo9iPzzS-VR6UBxN2_k",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhZTM0Y2JkMmI4YjA3N2FmY2NhMDE1MSIsImlhdCI6MTc5MzI4MTIxMywiZXhwIjoxNzk1ODczMjEzfQ.YDs6G3nfjJwBxgzVCDT0ds6TK93t8fkEP004OlOSDI8",
+    "phone": "(892)452-0438x8307",
+    "birthday": "1918-11-08",
+    "skype": "vaughankelly",
+    "userImgUrl": "https://picsum.photos/813/796",
+    "userTasks": []
+}

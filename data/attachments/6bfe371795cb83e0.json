@@ -1,0 +1,16 @@
+{
+    "status": "success",
+    "task": {
+        "_id": "6ae34ccd2b8b077afcca019e",
+        "title": "We down tend.",
+        "start": "00:25:06",
+        "end": "14:46:03",
+        "priority": "medium",
+        "category": "to-do",
+        "owner": "6ae34ccc2b8b077afcca019a",
+        "date": "2026-06-04T00:00:00.000Z",
+        "createdAt": "2026-10-29T13:40:29.328Z",
+        "updatedAt": "2026-10-29T13:40:29.901Z",
+        "__v": 0
+    }
+}
