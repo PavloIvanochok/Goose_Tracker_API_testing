@@ -1,0 +1,16 @@
+{
+    "status": "success",
+    "task": {
+        "_id": "6ae35e3a2b8b077afcca0272",
+        "title": "Save trade five.",
+        "start": "05:09:27",
+        "end": "15:08:35",
+        "priority": "medium",
+        "category": "done",
+        "owner": "6ae35e392b8b077afcca026e",
+        "date": "2026-06-04T00:00:00.000Z",
+        "createdAt": "2026-10-29T14:54:50.182Z",
+        "updatedAt": "2026-10-29T14:54:50.578Z",
+        "__v": 0
+    }
+}
