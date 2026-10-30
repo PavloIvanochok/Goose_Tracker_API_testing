@@ -1,0 +1,29 @@
+{
+    "success": false,
+    "error": {
+        "errors": {
+            "priority": {
+                "name": "ValidatorError",
+                "message": "`wrong` is not a valid enum value for path `priority`.",
+                "properties": {
+                    "message": "`wrong` is not a valid enum value for path `priority`.",
+                    "type": "enum",
+                    "enumValues": [
+                        "low",
+                        "medium",
+                        "high"
+                    ],
+                    "path": "priority",
+                    "value": "wrong"
+                },
+                "kind": "enum",
+                "path": "priority",
+                "value": "wrong"
+            }
+        },
+        "_message": "Notice validation failed",
+        "name": "ValidationError",
+        "message": "Notice validation failed: priority: `wrong` is not a valid enum value for path `priority`."
+    },
+    "message": "Notice validation failed: priority: `wrong` is not a valid enum value for path `priority`."
+}

@@ -1,0 +1,16 @@
+{
+    "status": "success",
+    "task": {
+        "_id": "6ae48efa2b8b077afcca0346",
+        "title": "Present life.",
+        "start": "11:33:57",
+        "end": "03:58:10",
+        "priority": "high",
+        "category": "done",
+        "owner": "6ae48efa2b8b077afcca0342",
+        "date": "2026-07-23T00:00:00.000Z",
+        "createdAt": "2026-10-30T12:35:06.890Z",
+        "updatedAt": "2026-10-30T12:35:07.441Z",
+        "__v": 0
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "id": "6ae48f032b8b077afcca036f",
+    "name": "Carl",
+    "email": "codynovak@example.org",
+    "data": {
+        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhZTQ4ZjAzMmI4YjA3N2FmY2NhMDM2ZiIsImlhdCI6MTc5MzM2MzcxNSwiZXhwIjoxNzkzMzY3MzE1fQ.O_Wv6KsXLq9lHdwpwOOrJnq2zUC1SJybTaBiukz1qg4",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhZTQ4ZjAzMmI4YjA3N2FmY2NhMDM2ZiIsImlhdCI6MTc5MzM2MzcxNSwiZXhwIjoxNzk1OTU1NzE1fQ.I_bKKmLJkM3OSDB95oNai56PaBMDVOjAbpibOBsTe4g"
+    }
+}

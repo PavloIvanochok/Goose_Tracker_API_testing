@@ -1,0 +1,12 @@
+{
+    "_id": "6ae48eeb2b8b077afcca02f9",
+    "name": "Monique",
+    "email": "qgibson@example.net",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhZTQ4ZWViMmI4YjA3N2FmY2NhMDJmOSIsImlhdCI6MTc5MzM2MzY5MSwiZXhwIjoxNzkzMzY3MjkxfQ.UgMqmsuuqX3h60YYjvXd4aGdZUhCt0rjv3I7AlXh7ME",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhZTQ4ZWViMmI4YjA3N2FmY2NhMDJmOSIsImlhdCI6MTc5MzM2MzY5MSwiZXhwIjoxNzk1OTU1NjkxfQ.xDWXZZVcC7fovcaYBXs7AhIXHdiL9c-nLP-pzvPjf0g",
+    "phone": "957-613-4517x03109",
+    "birthday": "1981-02-26",
+    "skype": "kimberly90",
+    "userImgUrl": "https://dummyimage.com/155x583",
+    "userTasks": []
+}

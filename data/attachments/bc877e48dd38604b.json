@@ -1,0 +1,9 @@
+{
+    "id": "6ae48f072b8b077afcca0383",
+    "name": "Lauren",
+    "email": "gibsontamara@example.org",
+    "data": {
+        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhZTQ4ZjA3MmI4YjA3N2FmY2NhMDM4MyIsImlhdCI6MTc5MzM2MzcxOSwiZXhwIjoxNzkzMzY3MzE5fQ.aD2aL_e8b1IfYKXqb3MK2OJ0PiyAOHfXNK2FJ5d9oW8",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhZTQ4ZjA3MmI4YjA3N2FmY2NhMDM4MyIsImlhdCI6MTc5MzM2MzcxOSwiZXhwIjoxNzk1OTU1NzE5fQ.gjJAjTfTypdwHPJmIFzbQfDQOcYMaDzqUQNuFl2t5a8"
+    }
+}
